@@ -16,10 +16,15 @@ This is a flask application that allows users to post in 60 seconds pitches and 
 .Vote on s pitch they have viwed by giving it a upvote or a downvote
 # Behaviour Driven Development
 Behaviour| Input |	Output
+
 Load the page"""""	On page load-----	Get all posts, Select between signup and login
+
 Select SignUp""""""	Email,Username,Password --------	Redirect to login
+
 Select Login """"""" Username and password	-----Redirect to page with app pitches based on categories and commenting section
+
 Select comment button	""""""Comment------	Form that you input your comment
+
 Click on submit	""""""	'''''Redirect to all comments tamplate with your comment and other comments
 
 # Developments

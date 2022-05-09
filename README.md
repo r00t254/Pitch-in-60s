@@ -33,3 +33,4 @@ python3.8 manage.py server
 .Testing the application
 
 python3.8 manage.py test
+# Technology Used

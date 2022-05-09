@@ -12,4 +12,5 @@ Register to be allowed to log in to the application
 Comment on the different pitches posted py other uses.
 
 See the pitches posted by other uses.
+
 Vote on s pitch they have viwed by giving it a upvote or a downvote

@@ -42,3 +42,4 @@ Heroku
 # Known Bugs
 There are no known bugs
 # Contact Information
+Feel free to send you comments and feedbacks here

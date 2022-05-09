@@ -14,3 +14,4 @@ This is a flask application that allows users to post in 60 seconds pitches and 
 .See the pitches posted by other uses.
 
 .Vote on s pitch they have viwed by giving it a upvote or a downvote
+# Behaviour Driven Development

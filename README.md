@@ -7,3 +7,4 @@ This is a flask application that allows users to post in 60 seconds pitches and 
 # User Story
 View pitches from the different categories.
 Register to be allowed to log in to the application
+Comment on the different pitches posted py other uses.

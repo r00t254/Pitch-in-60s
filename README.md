@@ -43,3 +43,7 @@ Heroku
 There are no known bugs
 # Contact Information
 Feel free to send you comments and feedbacks here root254@mary.gmail.com
+
+# License
+MIT License:
+Copyright (c) 2019 Mary Auma

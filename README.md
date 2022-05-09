@@ -26,3 +26,4 @@ Click on submit		Redirect to all comments tamplate with your comment and other c
 python3.8 manage.py server
 
 .Testing the application
+python3.8 manage.py test

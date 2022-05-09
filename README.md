@@ -2,4 +2,4 @@
 # Author
 Mary Auma
 # Description
-This is a flask application that allows users to post one minute pitches and also allows other users who have signed up to comment and upvote or downvote a pitch. It also allows a person to signup to be able to access the functionalities of the application
+This is a flask application that allows users to post in 60 seconds pitches and also allows other users  to comment and upvote or downvote a pitch. It also enable the users to sign up in the applications

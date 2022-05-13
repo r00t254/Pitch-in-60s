@@ -3,12 +3,12 @@ import os
 class Config:
     
     SQLALCHEMY_DATABASE_URI ='postgresql+psycopg2://clara:qwerty@localhost/pitch'
-    SECRET_KEY=os.environ.get('SECRET KEY')
+    SECRET_KEY='098765'
     MAIL_SERVER = 'smtp.gmail.com'
     MAIL_PORT = 587
     MAIL_USE_TLS = True
-    MAIL_USERNAME = os.environ.get("MAIL_USERNAME")
-    MAIL_PASSWORD = os.environ.get("MAIL_PASSWORD")
+    MAIL_USERNAME = 'mary.auma@student.moringaschool.com' 
+    MAIL_PASSWORD = '0716478973'
     UPLOADED_PHOTOS_DEST ='app/static/photos'
     
     # simple mde  configurations
